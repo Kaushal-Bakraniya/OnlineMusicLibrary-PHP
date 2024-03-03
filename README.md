@@ -15,7 +15,7 @@ Once logged in, you can navigate through the different modules of the system usi
 
 ## Note
 
-All the media files available in the project right now, including images, music files, etc., are just used for demonstration purposes, and all credits for that content go to the respective owners.
+This project was created for learning purposes only. All the media files available in the project right now, including images, music files, etc., are just used for demonstration purposes, and all credits for that content go to the respective owners.
 
 ## Contributing
 
