@@ -13,6 +13,10 @@ Upon launching the admin side of the website, you will be presented with a login
 
 Once logged in, you can navigate through the different modules of the system using the sidebar menu. Perform actions such as adding cars, managing customers, creating bookings, and more.
 
+## Note
+
+All the media files available in the project right now, including images, music files, etc., are just used for demonstration purposes, and all credits for that content go to the respective owners.
+
 ## Contributing
 
 Contributions to the Car Rental Management System are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
