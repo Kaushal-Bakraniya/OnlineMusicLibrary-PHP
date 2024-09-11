@@ -19,4 +19,4 @@ This project was created for learning purposes only. All the media files availab
 
 ## Contributing
 
-Contributions to the Car Rental Management System are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
+Contributions to the project are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
