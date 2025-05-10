@@ -1,6 +1,6 @@
-# BeatsMusic-Online Music Library
+# Online Music Library - PHP
 
-Beats Music is an online music library project that allows users to explore a vast collection of songs and albums. Users can listen to songs, view albums, and artists. For artists, Beats Music provides a platform to create and manage albums and upload songs. Additionally, the project includes an admin panel for the management of the website and content, ensuring a seamless user experience and efficient content management.
+Beats Music [Project Nick Name] Or Online Music Library Developed Using PHP is an online music library project that allows users to explore a vast collection of songs and albums. Users can listen to songs, view albums, and artists. For artists, Beats Music provides a platform to create and manage albums and upload songs. Additionally, the project includes an admin panel for the management of the website and content, ensuring a seamless user experience and efficient content management.
 
 The frontend has been customized based on an existing template to provide an appealing and user-friendly interface.Please note that this project is intended for educational and personal use only. All the records in the database are fictitious, and the images and content used within the application are solely for demonstration purposes.
 
